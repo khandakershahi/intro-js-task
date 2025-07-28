@@ -1,5 +1,5 @@
 var totalMoney = 1000;
-var applePrice = 350;
+var applePrice = 351;
 var orangePrice = 400;
 
 var moneyReturn = totalMoney - (applePrice + orangePrice);
